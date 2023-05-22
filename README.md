@@ -57,6 +57,10 @@
    <a href="https://www.php.net/" target="_blank">
     <img alt="PHP" src="https://img.shields.io/badge/Php%20-%23474A8A.svg?style=flat-square&logo=php&logoColor=white">
   </a>
+  &emsp;
+   <a href="https://www.rust-lang.org" target="_blank">
+    <img alt="Rust" src="https://img.shields.io/badge/Rust-000000.svg?style=flat-square&logo=rust&logoColor=white">
+  </a>
 </p>
 
 ### 👉 Frontend Development
