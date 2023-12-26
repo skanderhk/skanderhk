@@ -17,7 +17,7 @@
 <br>
 
 ## 🔥 Streak Stats
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=skanderhk&theme=algolia" alt="skanderhk" /></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=skanderhk&theme=algolia&card_width=720" alt="skanderhk" /></p>
 
 <br>
 
@@ -60,6 +60,10 @@
   &emsp;
    <a href="https://www.rust-lang.org" target="_blank">
     <img alt="Rust" src="https://img.shields.io/badge/Rust-000000.svg?style=flat-square&logo=rust&logoColor=white">
+  </a>
+ &emsp;
+   <a href="https://go.dev/" target="_blank">
+    <img alt="Go" src="https://img.shields.io/badge/Go-00ADD8.svg?style=flat-square&logo=Go&logoColor=white">
   </a>
 </p>
 
@@ -181,6 +185,8 @@
     <a href="#"><img alt="Adobe Premiere Pro" src="https://img.shields.io/badge/Adobe Premiere Pro-9999FF.svg?&style=flat-square&logo=Adobe Premiere Pro&logoColor=white" /></a>
   &emsp;
     <a href="#"><img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E.svg?&style=flat-square&logo=Figma&logoColor=white" /></a>
+  &emsp;
+    <a href="#"><img alt="Moqups" src="https://img.shields.io/badge/Moqups-006BE5.svg?&style=flat-square&logo=moqups&logoColor=white" /></a>
 </p>
 
  ### 👉 Operating Systems
@@ -203,10 +209,10 @@
   <summary><b>💻 GitHub Profile Stats</b></summary>
   <br/>
   <p align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="skanderhk's Github Stats" src="https://github-readme-stats.vercel.app/api?username=skanderhk&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
+    <img alt="skanderhk's Github Stats" src="https://github-readme-stats.vercel.app/api?username=skanderhk&show_icons=true&count_private=true&theme=algolia" height="240px"/>
 <br/>
   &nbsp;
-	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=skanderhk&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia" alt="skanderhk" height="192px"/>
+	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=skanderhk&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia" alt="skanderhk" height="240px"/>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
   </p>
@@ -215,7 +221,7 @@
 
   <summary><b>⚡ Recent GitHub Activity</b></summary>
   <br/>
-   <a href="https://github.com/skanderhk"><img alt="skanderhk's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=skanderhk&custom_title=skanderhk's%20Contribution%20Graph&theme=react-dark" /></a>
+   <a href="https://github.com/skanderhk"><img alt="skanderhk's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=skanderhk&bg_color=0b052d&color=00ed99&line=29a1ff&point=00ed99&area=true&hide_border=true" /></a>
   <br/>
 
 
@@ -227,4 +233,4 @@
 
 -----
 
-Last Edited on: 01/10/2022
+Last Edited on: 26/12/2023
