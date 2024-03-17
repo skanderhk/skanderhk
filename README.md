@@ -11,7 +11,7 @@
 ## 💁‍♂️  About me
 - 🎓 I am a `Software Engineer` graduated from Polytechnic institute of advanced sciences of SFAX
 - 🧑‍💻  I love using Software as a solution for every `Problem`.
-- ✨ This is [MY RESUME](https://drive.google.com/file/d/1ArQK5Yj6hM-vqSgWxpxB3fI5_jk4Mrti/view?usp=sharing).
+- ✨ This is [MY RESUME]([https://drive.google.com/file/d/1ArQK5Yj6hM-vqSgWxpxB3fI5_jk4Mrti/view?usp=sharing](https://drive.google.com/file/d/1rMNaVJLjfvduaGYOlfkzKyUQI-3dzQLZ/view?usp=sharing)).
 - 🤓 Always `learning new things`
 
 <br>
@@ -105,6 +105,10 @@
   <a href="https://getbootstrap.com/" target="_blank">
     <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C.svg?style=flat-square&logo=Bootstrap&logoColor=white">
   </a> 
+   &emsp;
+  <a href=["(https://ui.shadcn.com/" target="_blank">
+    <img alt="shadcn" src="https://img.shields.io/badge/shadcn/ui-000000.svg?style=flat-square&logo=shadcnui&logoColor=white">
+  </a> 	
 </p>
 
 ### 👉 Backend Development
@@ -140,64 +144,64 @@
  
 <p align="center">
   &emsp;
-    <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?style=flat-square&logo=git&logoColor=white"></a>
+    <a href="https://git-scm.com/"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?style=flat-square&logo=git&logoColor=white"></a>
   &emsp;
-    <a href="#"><img alt="GitHub" src="https://img.shields.io/badge/Github-%23181717.svg?style=flat-square&logo=github&logoColor=white"></a>
+    <a href="https://github.com/"><img alt="GitHub" src="https://img.shields.io/badge/Github-%23181717.svg?style=flat-square&logo=github&logoColor=white"></a>
   &emsp;
-    <a href="#"><img alt="GitLab" src="https://img.shields.io/badge/GitLab-fff.svg?style=flat-square&logo=gitlab&logoColor=white"></a>
+    <a href="https://gitlab.com/"><img alt="GitLab" src="https://img.shields.io/badge/GitLab-fff.svg?style=flat-square&logo=gitlab&logoColor=white"></a>
   &emsp;
-    <a href="#"><img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED.svg?style=flat-square&logo=Docker&logoColor=white"></a>
+    <a href="https://www.docker.com/"><img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED.svg?style=flat-square&logo=Docker&logoColor=white"></a>
   &emsp;
-    <a href="#"><img alt="Mark Down" src="https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown&logoColor=white"></a>
+    <a href="https://www.markdownguide.org/"><img alt="Mark Down" src="https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown&logoColor=white"></a>
   &emsp;
-    <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?style=flat-square&logo=stack-overflow&logoColor=white"></a>
+    <a href="https://stackoverflow.com/"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?style=flat-square&logo=stack-overflow&logoColor=white"></a>
   &emsp;
-    <a href="#"><img alt="Npm" src="https://img.shields.io/badge/Npm-white?style=flat-square&logo=npm&logoColor=white"></a>
+    <a href="https://www.npmjs.com/"><img alt="Npm" src="https://img.shields.io/badge/Npm-white?style=flat-square&logo=npm&logoColor=white"></a>
   &emsp;
-    <a href="#"><img alt="JSON" img src="https://img.shields.io/badge/json-%23000000.svg?style=flat-square&logo=json&logoColor=white"></a>
+    <a href="https://www.json.org/"><img alt="JSON" img src="https://img.shields.io/badge/json-%23000000.svg?style=flat-square&logo=json&logoColor=white"></a>
   &emsp;
-    <a href="#"><img alt="Postman" img src="https://img.shields.io/badge/Postman-FF6C37.svg?style=flat-square&logo=Postman&logoColor=white"></a>
+    <a href="https://www.postman.com/"><img alt="Postman" img src="https://img.shields.io/badge/Postman-FF6C37.svg?style=flat-square&logo=Postman&logoColor=white"></a>
 </p>
 
 ### 👉 IDEs
  
 <p align="center">
   &emsp;
-    <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=flat-square&logo=visual-studio-code&logoColor=white"></a>
+    <a href="https://code.visualstudio.com/"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=flat-square&logo=visual-studio-code&logoColor=white"></a>
   &emsp;
-    <a href="#"><img alt="JetBrain" src="https://img.shields.io/badge/IntelliJ -%23000000.svg?style=flat-square&logo=IntelliJ IDEA&logoColor=white" /></a>
+    <a href="https://www.jetbrains.com/idea/"><img alt="IntelliJ" src="https://img.shields.io/badge/IntelliJ -%23000000.svg?style=flat-square&logo=IntelliJ IDEA&logoColor=white" /></a>
   &emsp;
-    <a href="#"><img alt="PhpStorm" src="https://img.shields.io/badge/PHPStorm-181717.svg?&style=flat-square&logo=phpstorm&logoColor=white" /></a>
+    <a href="https://www.jetbrains.com/phpstorm/"><img alt="PhpStorm" src="https://img.shields.io/badge/PHPStorm-181717.svg?&style=flat-square&logo=phpstorm&logoColor=white" /></a>
 </p>
 
 ### 👉 Design Tools
  
 <p align="center">
   &emsp;
-    <a href="#"><img alt="Adobe" src="https://img.shields.io/badge/Adobe-FF0000.svg?style=flat-square&logo=Adobe&logoColor=white"></a>
+    <a href="https://www.adobe.com/"><img alt="Adobe" src="https://img.shields.io/badge/Adobe-FF0000.svg?style=flat-square&logo=Adobe&logoColor=white"></a>
   &emsp;
-    <a href="#"><img alt="Adobe Photoshop" src="https://img.shields.io/badge/Adobe Photoshop-31A8FF.svg?style=flat-square&logo=Adobe Photoshop&logoColor=white"></a>
+    <a href="https://www.adobe.com/products/photoshop.html"><img alt="Adobe Photoshop" src="https://img.shields.io/badge/Adobe Photoshop-31A8FF.svg?style=flat-square&logo=Adobe Photoshop&logoColor=white"></a>
   &emsp;
-    <a href="#"><img alt="Adobe Illustrator" src="https://img.shields.io/badge/Adobe Illustrator-FF9A00.svg?style=flat-square&logo=Adobe Illustrator&logoColor=black"/></a>
+    <a href="https://www.adobe.com/products/illustrator.html"><img alt="Adobe Illustrator" src="https://img.shields.io/badge/Adobe Illustrator-FF9A00.svg?style=flat-square&logo=Adobe Illustrator&logoColor=black"/></a>
   &emsp;
-    <a href="#"><img alt="Adobe After Effects" src="https://img.shields.io/badge/Adobe After Effects-9999FF.svg?&style=flat-square&logo=Adobe After Effects&logoColor=white" /></a>
+    <a href="https://www.adobe.com/products/aftereffects.html"><img alt="Adobe After Effects" src="https://img.shields.io/badge/Adobe After Effects-9999FF.svg?&style=flat-square&logo=Adobe After Effects&logoColor=white" /></a>
   &emsp;
-    <a href="#"><img alt="Adobe Premiere Pro" src="https://img.shields.io/badge/Adobe Premiere Pro-9999FF.svg?&style=flat-square&logo=Adobe Premiere Pro&logoColor=white" /></a>
+    <a href="https://www.adobe.com/products/premiere.html"><img alt="Adobe Premiere Pro" src="https://img.shields.io/badge/Adobe Premiere Pro-9999FF.svg?&style=flat-square&logo=Adobe Premiere Pro&logoColor=white" /></a>
   &emsp;
-    <a href="#"><img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E.svg?&style=flat-square&logo=Figma&logoColor=white" /></a>
+    <a href="https://www.figma.com/"><img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E.svg?&style=flat-square&logo=Figma&logoColor=white" /></a>
   &emsp;
-    <a href="#"><img alt="Moqups" src="https://img.shields.io/badge/Moqups-006BE5.svg?&style=flat-square&logo=moqups&logoColor=white" /></a>
+    <a href="https://moqups.com/"><img alt="Moqups" src="https://img.shields.io/badge/Moqups-006BE5.svg?&style=flat-square&logo=moqups&logoColor=white" /></a>
 </p>
 
  ### 👉 Operating Systems
  
 <p align="center">
   &emsp;
-    <a href="#"><img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"></a>
+    <a href="https://www.linux.org/"><img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"></a>
   &emsp;
-    <a href="#"><img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white"></a>
+    <a href="https://ubuntu.com/"><img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white"></a>
   &emsp;
-    <a href="#"><img src="https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white"></a>
+    <a href="https://www.microsoft.com/en-us/windows"><img src="https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white"></a>
 </p>
 
 <br/>
