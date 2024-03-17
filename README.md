@@ -11,7 +11,7 @@
 ## 💁‍♂️  About me
 - 🎓 I am a `Software Engineer` graduated from Polytechnic institute of advanced sciences of SFAX
 - 🧑‍💻  I love using Software as a solution for every `Problem`.
-- ✨ This is [MY RESUME]([https://drive.google.com/file/d/1ArQK5Yj6hM-vqSgWxpxB3fI5_jk4Mrti/view?usp=sharing](https://drive.google.com/file/d/1rMNaVJLjfvduaGYOlfkzKyUQI-3dzQLZ/view?usp=sharing)).
+- ✨ This is [MY RESUME](https://drive.google.com/file/d/1rMNaVJLjfvduaGYOlfkzKyUQI-3dzQLZ/view?usp=sharing).
 - 🤓 Always `learning new things`
 
 <br>
@@ -148,7 +148,7 @@
   &emsp;
     <a href="https://github.com/"><img alt="GitHub" src="https://img.shields.io/badge/Github-%23181717.svg?style=flat-square&logo=github&logoColor=white"></a>
   &emsp;
-    <a href="https://gitlab.com/"><img alt="GitLab" src="https://img.shields.io/badge/GitLab-fff.svg?style=flat-square&logo=gitlab&logoColor=white"></a>
+    <a href="https://gitlab.com/"><img alt="GitLab" src="https://img.shields.io/badge/GitLab-FC6D26.svg?style=flat-square&logo=gitlab&logoColor=white"></a>
   &emsp;
     <a href="https://www.docker.com/"><img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED.svg?style=flat-square&logo=Docker&logoColor=white"></a>
   &emsp;
@@ -156,7 +156,7 @@
   &emsp;
     <a href="https://stackoverflow.com/"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?style=flat-square&logo=stack-overflow&logoColor=white"></a>
   &emsp;
-    <a href="https://www.npmjs.com/"><img alt="Npm" src="https://img.shields.io/badge/Npm-white?style=flat-square&logo=npm&logoColor=white"></a>
+    <a href="https://www.npmjs.com/"><img alt="Npm" src="https://img.shields.io/badge/Npm-CB3837?style=flat-square&logo=npm&logoColor=white"></a>
   &emsp;
     <a href="https://www.json.org/"><img alt="JSON" img src="https://img.shields.io/badge/json-%23000000.svg?style=flat-square&logo=json&logoColor=white"></a>
   &emsp;
