@@ -172,7 +172,7 @@
   &emsp;
     <a href="https://code.visualstudio.com/"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"></a>
   &emsp;
-    <a href="https://www.jetbrains.com/idea/"><img alt="IntelliJ" src="https://img.shields.io/badge/IntelliJ-%23000000.svg?style=for-the-badge&logo=IntelliJ IDEA&logoColor=white" /></a>
+    <a href="https://www.jetbrains.com/idea/"><img alt="IntelliJ" src="https://img.shields.io/badge/IntelliJ-000000.svg?style=for-the-badge&logo=intellijidea&logoColor=white" /></a>
   &emsp;
     <a href="https://www.jetbrains.com/phpstorm/"><img alt="PhpStorm" src="https://img.shields.io/badge/PHPStorm-181717.svg?&style=for-the-badge&logo=phpstorm&logoColor=white" /></a>
 </p>
