@@ -18,7 +18,7 @@
 
 ## 🔥 Streak Stats
 
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=skanderhk&theme=algolia&card_width=720" alt="skanderhk" /></p>
+<p align="center"><img src="https://streak-stats.demolab.com/?user=skanderhk&theme=algolia&card_width=720" alt="skanderhk" /></p>
 
 <br>
 
